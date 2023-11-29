@@ -1,6 +1,7 @@
 # demoSpringProject
 
-Not: > 4.Sorunun Cevabı Alttadır.
+Not: 
+> 4.Sorunun Cevabı Alttadır.
 
 - H2 Database
 - Spring Data Jpa
