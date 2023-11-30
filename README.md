@@ -9,6 +9,7 @@ Not:
 - Lombok
 - Builder
 - JPQL
+- Maven
 
 Kullanarak geliştirdiğim içerisinde Resftul Web Servis mimarisi olan bir demo proje. 
 OOP ve çoklu katman mimarisi ile geliştirdiğim bu projede şirket ve çalışan şeklinde 2 Entity oluşturup bunları DTO yapısı ile maskeleyerek çalıştırdım.
